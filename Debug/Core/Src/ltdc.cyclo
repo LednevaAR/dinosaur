@@ -1,0 +1,7 @@
+../Core/Src/ltdc.c:10:6:FillScreenDayOrNight	2
+../Core/Src/ltdc.c:20:6:DrawLine	2
+../Core/Src/ltdc.c:30:6:DrawGameOver	4
+../Core/Src/ltdc.c:442:6:DrawMainCharacter	4
+../Core/Src/ltdc.c:555:6:DrawObstacle	4
+../Core/Src/ltdc.c:603:6:DrawLegsClear	3
+../Core/Src/ltdc.c:615:6:DrawLegsMainCharacter	8

@@ -1,0 +1,7 @@
+../Core/Src/ltdc.c:10:6:FillScreenDayOrNight	24	static
+../Core/Src/ltdc.c:20:6:DrawLine	24	static
+../Core/Src/ltdc.c:30:6:DrawGameOver	35224	static
+../Core/Src/ltdc.c:442:6:DrawMainCharacter	8024	static
+../Core/Src/ltdc.c:555:6:DrawObstacle	2824	static
+../Core/Src/ltdc.c:603:6:DrawLegsClear	24	static
+../Core/Src/ltdc.c:615:6:DrawLegsMainCharacter	2904	static
